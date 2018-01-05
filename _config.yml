@@ -69,7 +69,7 @@ safe: False
 lsi: False
 username: EspacioCentenera
 repo: espaciocentenera.github.io
-branch: master
+branch: source
 relative_source: ../
 destination: ../jasper2-pages/
 production_url:  https://espaciocentenera.github.io
