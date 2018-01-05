@@ -9,6 +9,6 @@ script: bundle exec rake site:deploy --quiet
 env:
   global:
   secure: E/MVpwsIeOtee3luDkbx6RKBgWlLNNDPhPWXj+N6hForBkoobHbAJwXvqE7fvyMr7tN4qphN/YA3VeFf4QeH1dlN4GWgjSzT7pzQvfj22BYZ549GlAbpyo09zGubT9+IY4dEfYJg8On5O+GzNCjFxiQ/LEY6VHLQKiGOdXC3/ZLBnrLNnr40DizRYwkEqeahcvfq1l49a2895Lk3i5BkZljwJ9dxPwKvQizAqJP7/cSUajNku1xwRDUWEHzKJur0uTMSkSeO6dm6azst6C/Rn9peN0la0xq/SNCNanovDs/MG3M+30/5qxm1mJysD0voTTITMELrsUmFW8nPIEe6Kjhxm/ug6PsG3hSMY3303AS0MKYtJ7P6bgTj5quobu/2HK4U3M87SYXhOWqwFtacpwXc/LRK8B28fkylwNCwHHZfRfGMDP4vOshp9Y5aG3K0TzkB1/PmnrHnsTfXHQh1Rs4gk5++pf0jbecwlK2HohZUFWXJO+Gk+i7TNdoyoXX0am4y00il8Z6Od8jOoFRYlijl+msBrlSIaM2zo3JNS9O2Tw9KMd6nq1l9fmRRPkOWpaaVpkqFdr0wrB8uYBB4pv5l7LncXBY6TygO8ac2rDyZiZv/VF/wMkAS8NIfpq2BBJt1hhiIXXbq7Tt2kB7JzyVVbiVIJS9hQM4zNFjWZ5U=  
-branches:
-  only:
-  - master
+#branches:
+#  only:
+#  - master
