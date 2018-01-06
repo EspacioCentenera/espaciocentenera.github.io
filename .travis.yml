@@ -5,7 +5,7 @@ rvm:
 - 2.4.2
 install:
 - bundle install
-script: bundle exec rake site:deploy --quiet
+script: bundle exec rake site:deploy --quiet --trace
 dd:
   secure: Mo6+yEUTMHOpDV+IQIIdz6RgtBq6WOQ3K7QubiXAJOnEfmXSSl4EWgyRXGp6F2sGkuKs/iVolvDcbEr03OKvPh/lGhsj0/+HeMTjUzNTJOvkSK8hIKaWhcAU8KzKIrF4LB1SPPFxmOUNYFcHBznBt6IKDO/j6pK969riRkDr4hx0HkThC+bzd2VWb6rnB3bZYbnURqiDPAFE1HNAbjGtLgvhN4Khgw376v0/4wAEUbFUvWy1J5H3GRJ0GgsVZ72y266OP6kcQUnwbhGZaFG6J8LsEvceYtIB9x5Z3uJk3amb1APUo5HE951YV0/p3pu1Zu/o2ByGy6B8ESvfJa7KmL/OMUNHUMDlyGoRfX/9y3OOg8CdZhqX4ftZH2DhfLoF3+umQSg5XFZBgzn+SvQRpQMBbIApRyYV5u+xR0GowId47ukcmYuuJ47tAdjvcBoDHTtXgM3eV/1TYx4jfKlVRoF5WBd/4EKAEYR8zdLIFAzUSojN5WI+bkz6RXHE8I3zGVWBpEhHIQWUvQbuIqxGK41HvUlaMcN1WPGSGBlvCHiTAXnM8H0qi18AtK/2ENWV2nSYiTQkCYxHadPZeDj5SlQBsGdDTCyKuwXeFMCzhT+bAYq6zudtPkx9vlKdP/UWPH5E7WT12PuiFK1cYForgby47dsstGvd60F6DnYrCQA=
 branches:
