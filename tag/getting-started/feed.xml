@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>http://localhost:4000/</title>
+      <title>/</title>
    
-   <link>http://localhost:4000/</link>
+   <link>/</link>
    <description>Plataforma de publicación y formación artística</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Plataforma de publicación y formación artística ]]>
    </description>
-   <link>http://localhost:4000/</link>
+   <link>/</link>
    <image>
-   <url>http://localhost:4000/assets/images/favicon.png</url>
+   <url>/assets/images/favicon.png</url>
    <title>Espacio Centenera</title>
-   <link>http://localhost:4000/</link>
+   <link>/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Welcome to Ghost</title>
-	  <link>http://localhost:4000/autor/welcome</link>
+	  <link>/autor/welcome</link>
 		
 				
 						<author>Ghost</author>
@@ -47,8 +47,8 @@
 		
 				
 		
-	  <pubDate>2017-07-27T07:00:00-03:00</pubDate>
-	  <guid>http://localhost:4000/autor/welcome</guid>
+	  <pubDate>2017-07-27T10:00:00+00:00</pubDate>
+	  <guid>/autor/welcome</guid>
 	  <description><![CDATA[
 	     <p>Hey! Welcome to Ghost, it’s great to have you :)</p>
 
@@ -72,7 +72,7 @@
 
 	<item>
 	  <title>Using the Ghost editor</title>
-	  <link>http://localhost:4000/autor/the-editor</link>
+	  <link>/autor/the-editor</link>
 		
 				
 						<author>Ghost</author>
@@ -90,8 +90,8 @@
 		
 				
 		
-	  <pubDate>2017-07-27T06:00:00-03:00</pubDate>
-	  <guid>http://localhost:4000/autor/the-editor</guid>
+	  <pubDate>2017-07-27T09:00:00+00:00</pubDate>
+	  <guid>/autor/the-editor</guid>
 	  <description><![CDATA[
 	     <p>Ghost uses a language called <strong>Markdown</strong> to format text.</p>
 <p>When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.</p>
@@ -141,7 +141,7 @@
 
 	<item>
 	  <title>Organising your content with tags</title>
-	  <link>http://localhost:4000/autor/using-tags</link>
+	  <link>/autor/using-tags</link>
 		
 				
 						<author>Ghost</author>
@@ -159,8 +159,8 @@
 		
 				
 		
-	  <pubDate>2017-07-27T05:00:00-03:00</pubDate>
-	  <guid>http://localhost:4000/autor/using-tags</guid>
+	  <pubDate>2017-07-27T08:00:00+00:00</pubDate>
+	  <guid>/autor/using-tags</guid>
 	  <description><![CDATA[
 	     <p>Ghost has a single, powerful organisational taxonomy, called tags.</p>
 <p>It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.</p>
@@ -195,7 +195,7 @@
 
 	<item>
 	  <title>Managing Ghost users</title>
-	  <link>http://localhost:4000/autor/managing-users</link>
+	  <link>/autor/managing-users</link>
 		
 				
 						<author>Ghost</author>
@@ -213,8 +213,8 @@
 		
 				
 		
-	  <pubDate>2017-07-27T04:00:00-03:00</pubDate>
-	  <guid>http://localhost:4000/autor/managing-users</guid>
+	  <pubDate>2017-07-27T07:00:00+00:00</pubDate>
+	  <guid>/autor/managing-users</guid>
 	  <description><![CDATA[
 	     <p>Ghost has a number of different user roles for your team</p>
 <h3 id="authors">Authors</h3>
@@ -233,7 +233,7 @@
 
 	<item>
 	  <title>Making your site private</title>
-	  <link>http://localhost:4000/autor/private-sites</link>
+	  <link>/autor/private-sites</link>
 		
 				
 						<author>Ghost</author>
@@ -251,8 +251,8 @@
 		
 				
 		
-	  <pubDate>2017-07-27T03:00:00-03:00</pubDate>
-	  <guid>http://localhost:4000/autor/private-sites</guid>
+	  <pubDate>2017-07-27T06:00:00+00:00</pubDate>
+	  <guid>/autor/private-sites</guid>
 	  <description><![CDATA[
 	     <p>Sometimes you might want to put your site behind closed doors</p>
 <p>If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.</p>
@@ -266,7 +266,7 @@
 
 	<item>
 	  <title>Advanced Markdown tips</title>
-	  <link>http://localhost:4000/autor/advanced-markdown</link>
+	  <link>/autor/advanced-markdown</link>
 		
 				
 						<author>Ghost</author>
@@ -284,8 +284,8 @@
 		
 				
 		
-	  <pubDate>2017-07-27T02:00:00-03:00</pubDate>
-	  <guid>http://localhost:4000/autor/advanced-markdown</guid>
+	  <pubDate>2017-07-27T05:00:00+00:00</pubDate>
+	  <guid>/autor/advanced-markdown</guid>
 	  <description><![CDATA[
 	     <p>There are lots of powerful things you can do with the Ghost editor</p>
 <p>If you've gotten pretty comfortable with <a href="/the-editor/">all the basics</a> of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</p>
@@ -336,7 +336,7 @@
 
 	<item>
 	  <title>Setting up your own Ghost theme</title>
-	  <link>http://localhost:4000/autor/themes</link>
+	  <link>/autor/themes</link>
 		
 				
 						<author>Ghost</author>
@@ -354,8 +354,8 @@
 		
 				
 		
-	  <pubDate>2017-07-27T01:00:00-03:00</pubDate>
-	  <guid>http://localhost:4000/autor/themes</guid>
+	  <pubDate>2017-07-27T04:00:00+00:00</pubDate>
+	  <guid>/autor/themes</guid>
 	  <description><![CDATA[
 	     <p>Creating a totally custom design for your publication</p>
 <p>Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.</p>

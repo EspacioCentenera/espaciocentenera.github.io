@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>http://localhost:4000/</title>
+      <title>/</title>
    
-   <link>http://localhost:4000/</link>
+   <link>/</link>
    <description>Plataforma de publicación y formación artística</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Plataforma de publicación y formación artística ]]>
    </description>
-   <link>http://localhost:4000/</link>
+   <link>/</link>
    <image>
-   <url>http://localhost:4000/assets/images/favicon.png</url>
+   <url>/assets/images/favicon.png</url>
    <title>Espacio Centenera</title>
-   <link>http://localhost:4000/</link>
+   <link>/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>The Businessman & The Fisherman</title>
-	  <link>http://localhost:4000/autor/the-businessman-and-fisherman</link>
+	  <link>/autor/the-businessman-and-fisherman</link>
 		
 				
 		
@@ -47,8 +47,8 @@
 		
 				
 		
-	  <pubDate>2014-08-12T07:18:00-03:00</pubDate>
-	  <guid>http://localhost:4000/autor/the-businessman-and-fisherman</guid>
+	  <pubDate>2014-08-12T10:18:00+00:00</pubDate>
+	  <guid>/autor/the-businessman-and-fisherman</guid>
 	  <description><![CDATA[
 	     <p>An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.</p>
 

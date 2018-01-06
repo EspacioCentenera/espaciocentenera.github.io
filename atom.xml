@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>Plataforma de publicación y formación artística</description>
     <link>
-    http://localhost:4000</link>
+    </link>
     
       
       <item>
@@ -14,10 +14,10 @@
 
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 07:00:00 -0300</pubDate>
+        <pubDate>Thu, 27 Jul 2017 10:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/welcome</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/welcome</guid>
+        /autor/welcome</link>
+        <guid isPermaLink="true">/autor/welcome</guid>
       </item>
       
     
@@ -69,10 +69,10 @@
 &lt;p&gt;This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the &lt;a href=&quot;/advanced-markdown/&quot;&gt;Advanced Markdown Guide&lt;/a&gt; - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of &lt;a href=&quot;/using-tags/&quot;&gt;how to use Ghost tags&lt;/a&gt;.&lt;/p&gt;
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 06:00:00 -0300</pubDate>
+        <pubDate>Thu, 27 Jul 2017 09:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/the-editor</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/the-editor</guid>
+        /autor/the-editor</link>
+        <guid isPermaLink="true">/autor/the-editor</guid>
       </item>
       
     
@@ -109,10 +109,10 @@
 
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 05:00:00 -0300</pubDate>
+        <pubDate>Thu, 27 Jul 2017 08:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/using-tags</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/using-tags</guid>
+        /autor/using-tags</link>
+        <guid isPermaLink="true">/autor/using-tags</guid>
       </item>
       
     
@@ -133,10 +133,10 @@
 &lt;p&gt;It's a good idea to ask all of your users to fill out their user profiles, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.&lt;/p&gt;
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 04:00:00 -0300</pubDate>
+        <pubDate>Thu, 27 Jul 2017 07:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/managing-users</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/managing-users</guid>
+        /autor/managing-users</link>
+        <guid isPermaLink="true">/autor/managing-users</guid>
       </item>
       
     
@@ -152,10 +152,10 @@
 &lt;p&gt;Do remember though, this is &lt;em&gt;not&lt;/em&gt; secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for very basic privacy.&lt;/p&gt;
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 03:00:00 -0300</pubDate>
+        <pubDate>Thu, 27 Jul 2017 06:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/private-sites</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/private-sites</guid>
+        /autor/private-sites</link>
+        <guid isPermaLink="true">/autor/private-sites</guid>
       </item>
       
     
@@ -208,10 +208,10 @@
 &lt;/ol&gt;
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 02:00:00 -0300</pubDate>
+        <pubDate>Thu, 27 Jul 2017 05:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/advanced-markdown</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/advanced-markdown</guid>
+        /autor/advanced-markdown</link>
+        <guid isPermaLink="true">/autor/advanced-markdown</guid>
       </item>
       
     
@@ -238,10 +238,10 @@
 &lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 01:00:00 -0300</pubDate>
+        <pubDate>Thu, 27 Jul 2017 04:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/themes</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/themes</guid>
+        /autor/themes</link>
+        <guid isPermaLink="true">/autor/themes</guid>
       </item>
       
     
@@ -253,10 +253,10 @@
 
 </description>
         
-        <pubDate>Tue, 12 Aug 2014 07:18:00 -0300</pubDate>
+        <pubDate>Tue, 12 Aug 2014 10:18:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/the-businessman-and-fisherman</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/the-businessman-and-fisherman</guid>
+        /autor/the-businessman-and-fisherman</link>
+        <guid isPermaLink="true">/autor/the-businessman-and-fisherman</guid>
       </item>
       
     
@@ -268,10 +268,10 @@
 
 </description>
         
-        <pubDate>Sat, 01 Sep 2012 07:00:00 -0300</pubDate>
+        <pubDate>Sat, 01 Sep 2012 10:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/a-full-and-comprehensive-style-test</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/a-full-and-comprehensive-style-test</guid>
+        /autor/a-full-and-comprehensive-style-test</link>
+        <guid isPermaLink="true">/autor/a-full-and-comprehensive-style-test</guid>
       </item>
       
     
@@ -283,10 +283,10 @@
 
 </description>
         
-        <pubDate>Wed, 28 Aug 1963 07:18:00 -0300</pubDate>
+        <pubDate>Wed, 28 Aug 1963 10:18:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/i-have-a-dream</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/i-have-a-dream</guid>
+        /autor/i-have-a-dream</link>
+        <guid isPermaLink="true">/autor/i-have-a-dream</guid>
       </item>
       
     
@@ -298,10 +298,10 @@
 
 </description>
         
-        <pubDate>Sun, 12 Dec 1948 07:18:00 -0300</pubDate>
+        <pubDate>Sun, 12 Dec 1948 10:18:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/the-purpose-of-education</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/the-purpose-of-education</guid>
+        /autor/the-purpose-of-education</link>
+        <guid isPermaLink="true">/autor/the-purpose-of-education</guid>
       </item>
       
     
@@ -313,10 +313,10 @@
 
 </description>
         
-        <pubDate>Wed, 24 Jul 1912 06:01:12 -0416</pubDate>
+        <pubDate>Wed, 24 Jul 1912 10:18:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/out-to-sea</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/out-to-sea</guid>
+        /autor/out-to-sea</link>
+        <guid isPermaLink="true">/autor/out-to-sea</guid>
       </item>
       
     
@@ -330,10 +330,10 @@ But the black kitten had been finished with earlier in the afternoon, and so, wh
 
 </description>
         
-        <pubDate>Sat, 18 Mar 1871 06:24:12 -0353</pubDate>
+        <pubDate>Sat, 18 Mar 1871 10:18:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/looking-glass-house</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/looking-glass-house</guid>
+        /autor/looking-glass-house</link>
+        <guid isPermaLink="true">/autor/looking-glass-house</guid>
       </item>
       
     
@@ -345,10 +345,10 @@ But the black kitten had been finished with earlier in the afternoon, and so, wh
 
 </description>
         
-        <pubDate>Sun, 26 Nov 1865 06:24:12 -0353</pubDate>
+        <pubDate>Sun, 26 Nov 1865 10:18:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/down-the-rabbit-hole</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/down-the-rabbit-hole</guid>
+        /autor/down-the-rabbit-hole</link>
+        <guid isPermaLink="true">/autor/down-the-rabbit-hole</guid>
       </item>
       
     
@@ -360,10 +360,10 @@ But the black kitten had been finished with earlier in the afternoon, and so, wh
 
 </description>
         
-        <pubDate>Thu, 19 Nov 1863 06:24:12 -0353</pubDate>
+        <pubDate>Thu, 19 Nov 1863 10:18:00 +0000</pubDate>
         <link>
-        http://localhost:4000/autor/gettysburg-address</link>
-        <guid isPermaLink="true">http://localhost:4000/autor/gettysburg-address</guid>
+        /autor/gettysburg-address</link>
+        <guid isPermaLink="true">/autor/gettysburg-address</guid>
       </item>
       
     
