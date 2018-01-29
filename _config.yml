@@ -22,8 +22,8 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: amaciel # replace by your username
+facebook: espaciocentenera # replace by your username
 
 # Disqus
 disqus: False
@@ -61,7 +61,7 @@ feed:
 # Settings for deploy rake task
 # Username and repo of Github repo, e.g.
 # https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
+# username defaults to ENV['GIT_NAME'] usedghost by Travis
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
