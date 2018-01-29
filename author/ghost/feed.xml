@@ -43,34 +43,6 @@
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
-	<item>
-	  <title>Bienvenides</title>
-	  <link>/autor/welcome</link>
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-	  <pubDate>2017-07-27T10:00:00+00:00</pubDate>
-	  <guid>/autor/welcome</guid>
-	  <description><![CDATA[
-	     <p>Hey! Bienvenides al taller de arte</p>
-
-<p>y acá va un texto :)</p>
-
-	  ]]></description>
-	</item>
-
 
 </channel>
 </rss>
