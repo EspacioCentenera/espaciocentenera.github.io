@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Taller de arte</description>
+   <language>es-es</language>
+   
+      
+            
+               
+               
+                  <managingEditor>talleristas</managingEditor>
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+   
+   <title>
+   <![CDATA[ talleristas - Espacio Centenera ]]>
+   </title>
+   <description>
+   <![CDATA[ Taller de arte ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>talleristas - Espacio Centenera</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/author/talleristas/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Bienvenides</title>
+	  <link>/autor/welcome</link>
+		
+				
+						<author>talleristas</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2017-07-27T10:00:00+00:00</pubDate>
+	  <guid>/autor/welcome</guid>
+	  <description><![CDATA[
+	     <p>Bienvenides a la taller de arte de Espacio Centenera.
+Estamos armando y diseñando la página. En breve terminamos y habrá muchas novedades.</p>
+
+<p>Abrazos!!!</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
