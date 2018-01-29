@@ -1,12 +1,12 @@
 ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://myJekyll.github.io/jasper2/
-  url: myJekyll.github.io/jasper2
-  bio: The professional publishing platform
+  username: talleristas
+  name: talleristas
+  url_full: https://www.facebook.com/espaciocentenera/
+  url: facebook.com/espaciocentenera/
+  bio: Docentes del espacio
   picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+  facebook: espaciocentenera
+  twitter: amaciel
   cover: False
 hannah:
   username: hannah
