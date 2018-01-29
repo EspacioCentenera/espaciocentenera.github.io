@@ -1,10 +1,10 @@
 talleristas:
   username: talleristas
-  name: talleristas
+  name: Talleristas
   url_full: https://www.facebook.com/espaciocentenera/
   url: facebook.com/espaciocentenera/
   bio: Docentes del espacio
-  picture: assets/images/espachiocenteurixnegro.png
+  picture: assets/images/EspacioCenteneraVolante.jpg
   facebook: espaciocentenera
   twitter: amaciel
   cover: False
