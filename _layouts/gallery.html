@@ -16,7 +16,7 @@ layout: page
       <li>
         {{ image.text }}<br>
         <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-          <img src="{{ image.thumb }}">
+          <img src=//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ gallery.imagefolder }}/{{ image.name }}&w=300&h=300&output=jpg&q=50&t=square>
         </a>
       </li>
     {% endfor %}
