@@ -1,14 +1,14 @@
 ---
 layout: post
-navigation: true
+navigation: True
 ---
+{% include head.html %}
 <style>
   .image-gallery {overflow: auto; margin-left: -1%;}
   .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
   .image-gallery a img {width: 100%;}
 </style>
 
-{% include head.html %}
 
 
 <!--
@@ -42,6 +42,7 @@ navigation: true
         {% for image in gallery.images %}
         <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
           <img src=//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ gallery.imagefolder }}/{{ image.name }}&w=300&h=300&output=jpg&q=50&t=square>
+          {{ image.text }}
           </a>
         {% endfor%}
       </ol>
