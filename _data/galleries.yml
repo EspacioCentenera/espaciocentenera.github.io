@@ -3,7 +3,7 @@
   imagefolder: /assets/images/trabajos
   images:
   - name: 1.jpg
-    thumb: "//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}/{{ gallery.imagefolder }}/{{ image.name }}&w=300&h=300&output=jpg&q=50&t=square"
+    thumb: "//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}//assets/images/trabajos/1.jpg&w=300&h=300&output=jpg&q=50&t=square"
     text: The first image
   - name: 2.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
