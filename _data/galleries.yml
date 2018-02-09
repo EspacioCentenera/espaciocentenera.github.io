@@ -1,0 +1,23 @@
+- id: gallery1
+  description: Galería con trabajos de los estudiantes
+  imagefolder: /assets/images/trabajos
+  images:
+  - name: 1.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: The first image
+  - name: 2.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: The second image
+  - name: 3.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: The third image
+- id: anothergallery
+  description: El taller
+  imagefolder: /assets/images
+  images:
+  - name: elprofe1.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Another gallery, first image
+  - name: pp.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Another gallery, second image
