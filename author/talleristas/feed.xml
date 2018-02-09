@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>https://espaciocentenera.com.ar/</title>
+      <title>https://espaciocentenera.com.ar//</title>
    
-   <link>https://espaciocentenera.com.ar/</link>
+   <link>https://espaciocentenera.com.ar//</link>
    <description>Taller de arte</description>
    <language>es-es</language>
    
@@ -35,21 +35,21 @@
    <description>
    <![CDATA[ Taller de arte ]]>
    </description>
-   <link>https://espaciocentenera.com.ar/</link>
+   <link>https://espaciocentenera.com.ar//</link>
    <image>
-   <url>https://espaciocentenera.com.ar/assets/images/elespacio2.jpg</url>
+   <url>https://espaciocentenera.com.ar//assets/images/elespacio2.jpg</url>
    <title>Talleristas - Espacio Centenera</title>
-   <link>https://espaciocentenera.com.ar/</link>
+   <link>https://espaciocentenera.com.ar//</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="https://espaciocentenera.com.ar/author/talleristas/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://espaciocentenera.com.ar//author/talleristas/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Bienvenides</title>
-	  <link>https://espaciocentenera.com.ar/autor/welcome</link>
+	  <link>https://espaciocentenera.com.ar//autor/welcome</link>
 		
 				
 						<author>Talleristas</author>
@@ -68,7 +68,7 @@
 				
 		
 	  <pubDate>2017-07-27T10:00:00+00:00</pubDate>
-	  <guid>https://espaciocentenera.com.ar/autor/welcome</guid>
+	  <guid>https://espaciocentenera.com.ar//autor/welcome</guid>
 	  <description><![CDATA[
 	     <p>Bienvenides a la taller de arte de Espacio Centenera.
 Estamos armando y diseñando la página. En breve terminamos y habrá muchas novedades.</p>

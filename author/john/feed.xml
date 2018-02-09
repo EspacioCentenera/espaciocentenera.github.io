@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>https://espaciocentenera.com.ar/</title>
+      <title>https://espaciocentenera.com.ar//</title>
    
-   <link>https://espaciocentenera.com.ar/</link>
+   <link>https://espaciocentenera.com.ar//</link>
    <description>Taller de arte</description>
    <language>es-es</language>
    
@@ -35,15 +35,15 @@
    <description>
    <![CDATA[ Taller de arte ]]>
    </description>
-   <link>https://espaciocentenera.com.ar/</link>
+   <link>https://espaciocentenera.com.ar//</link>
    <image>
-   <url>https://espaciocentenera.com.ar/assets/images/elespacio2.jpg</url>
+   <url>https://espaciocentenera.com.ar//assets/images/elespacio2.jpg</url>
    <title>John O'Nolan - Espacio Centenera</title>
-   <link>https://espaciocentenera.com.ar/</link>
+   <link>https://espaciocentenera.com.ar//</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="https://espaciocentenera.com.ar/author/john/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://espaciocentenera.com.ar//author/john/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
