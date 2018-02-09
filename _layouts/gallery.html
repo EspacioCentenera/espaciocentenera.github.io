@@ -1,9 +1,17 @@
 ---
-layout: page
+layout: post
+navigation: true
 ---
+<style>
+  .image-gallery {overflow: auto; margin-left: -1%;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+  .image-gallery a img {width: 100%;}
+</style>
 
 {% include head.html %}
 
+
+<!--
 <p>Encabezado por defecto para las galerías</p>
 
 
@@ -25,3 +33,18 @@ layout: page
 {% endfor %}
 
 <p>default footer for all gallery pages</p>
+-->
+<div class="image-gallery">
+  {% for gallery in site.data.galleries %}
+    {% if gallery.id == page.galleryid %}
+      <h1>{{ gallery.description }}</h1>
+      <ol>
+        {% for image in gallery.images %}
+        <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+          <img src=//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ gallery.imagefolder }}/{{ image.name }}&w=300&h=300&output=jpg&q=50&t=square>
+          </a>
+        {% endfor%}
+      </ol>
+    {% endif %}
+  {% endfor %}
+</div>
