@@ -48,6 +48,7 @@ into the {body} of the default.hbs template -->
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
+                  {{ content }}
                   <div class="image-gallery">
                     {% for gallery in site.data.galleries %}
                     {% if gallery.id == page.galleryid %}
