@@ -4,13 +4,43 @@
   images:
   - name: 1.jpg
     thumb: "//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}//assets/images/trabajos/1.jpg&w=300&h=300&output=jpg&q=50&t=square"
-    text: The first image
+    text: Retrato
   - name: 2.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
-    text: The second image
+    text: Retrato
   - name: 3.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
-    text: The third image
+    text: Torso
+  - name: 4.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Bailarina
+  - name: 5.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Trabjando con el Ogro
+  - name: 6.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Naturaleza muerta
+  - name: 7.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Retrato
+  - name: 8.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Retrato
+  - name: 9.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Retrato
+  - name: 10.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Estudios
+  - name: 11.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Acrílico
+  - name: 12.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Retrato
+  - name: 3.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Obras varias
 - id: anothergallery
   description: El taller
   imagefolder: /assets/images
