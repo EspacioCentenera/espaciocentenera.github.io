@@ -79,8 +79,9 @@ into the {body} of the default.hbs template -->
                           <!--<img src=//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ gallery.imagefolder }}/{{ image.name }}&w=300&h=300&output=jpg&q=50&t=square>-->
                           <img src=//images.weserv.nl/?url=espaciocentenera.com.ar{{ gallery.imagefolder }}/{{ image.name }}&w=150&h=150&output=jpg&q=50&t=square>
                           {{ image.text }}
+                        </a>
+                        <br><a href="{{ site.baseurl }}author/{{ image.authorslug }}">{{ image.author}}</a>
                         </article>
-                      <!--  </a><p><a href="{{ site.baseurl }}author/{{ image.author }}">{{ image.author}}</a></P>-->
                         {% endfor%}
                       </section>
                     {% endif %}

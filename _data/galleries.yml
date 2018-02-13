@@ -5,55 +5,68 @@
   - name: 1.jpg
     thumb: "//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}//assets/images/trabajos/1.jpg&w=300&h=300&output=jpg&q=50&t=square"
     text: Retrato
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 2.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Retrato
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 3.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Torso
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 4.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Bailarina
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 5.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Trabjando con el Ogro
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 6.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Naturaleza muerta
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 7.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Retrato
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 8.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Retrato
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 9.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Retrato
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 10.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Estudios
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 11.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Acrílico
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 12.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Retrato
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
   - name: 13.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Obras varias
-    author: talleristas
+    authorslug: talleristas
+    author: Talleristas
 - id: Eltaller
   description: El taller
   imagefolder: /assets/images
