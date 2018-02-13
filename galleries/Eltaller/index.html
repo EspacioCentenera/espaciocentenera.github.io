@@ -100,10 +100,18 @@
 /*  .image-gallery {overflow: auto; margin-left: -1%;}
   .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
   .image-gallery a img {width: 100%;}*/
+  article {
+        padding: 10px;
+        margin: 10px;
+        text-align: center;
+      }
   section {
         display: flex;
         flex-wrap: wrap;
       }
+      article {
+       flex: 150px;
+     }
 </style>
 
 
@@ -183,14 +191,16 @@ into the {body} of the default.hbs template -->
                         
                           <article>
                           <a href="/assets/images/elprofe1.jpg" data-lightbox="Eltaller" title="Another gallery, first image">
-                          <img src=//images.weserv.nl/?url=espaciocentenera.com.ar//assets/images/elprofe1.jpg&w=300&h=300&output=jpg&q=50&t=square>
+                          <!--<img src=//images.weserv.nl/?url=espaciocentenera.com.ar//assets/images/elprofe1.jpg&w=300&h=300&output=jpg&q=50&t=square>-->
+                          <img src=//images.weserv.nl/?url=espaciocentenera.com.ar/assets/images/elprofe1.jpg&w=150&h=150&output=jpg&q=50&t=square>
                           Another gallery, first image
                         </article>
                       <!--  </a><p><a href="/author/"></a></P>-->
                         
                           <article>
                           <a href="/assets/images/pp.jpg" data-lightbox="Eltaller" title="Another gallery, second image">
-                          <img src=//images.weserv.nl/?url=espaciocentenera.com.ar//assets/images/pp.jpg&w=300&h=300&output=jpg&q=50&t=square>
+                          <!--<img src=//images.weserv.nl/?url=espaciocentenera.com.ar//assets/images/pp.jpg&w=300&h=300&output=jpg&q=50&t=square>-->
+                          <img src=//images.weserv.nl/?url=espaciocentenera.com.ar/assets/images/pp.jpg&w=150&h=150&output=jpg&q=50&t=square>
                           Another gallery, second image
                         </article>
                       <!--  </a><p><a href="/author/"></a></P>-->
