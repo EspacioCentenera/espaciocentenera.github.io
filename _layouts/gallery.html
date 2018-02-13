@@ -5,6 +5,17 @@ class: post-template
 disqus: false
 ---
 
+<style>
+/*  .image-gallery {overflow: auto; margin-left: -1%;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+  .image-gallery a img {width: 100%;}*/
+  section {
+        display: flex;
+        flex-wrap: wrap;
+      }
+</style>
+
+
 <!-- default -->
 
 <!-- The tag above means: insert everything in this file
@@ -53,14 +64,16 @@ into the {body} of the default.hbs template -->
                     {% for gallery in site.data.galleries %}
                     {% if gallery.id == page.galleryid %}
                       <h1>{{ gallery.description }}</h1>
-                      <ol>
+                      <section>
                         {% for image in gallery.images %}
+                          <article>
                           <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
                           <img src=//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ gallery.imagefolder }}/{{ image.name }}&w=300&h=300&output=jpg&q=50&t=square>
                           {{ image.text }}
-                          </a>
+                        </article>
+                      <!--  </a><p><a href="{{ site.baseurl }}author/{{ image.author }}">{{ image.author}}</a></P>-->
                         {% endfor%}
-                      </ol>
+                      </section>
                     {% endif %}
                     {% endfor %}
                   </div>
@@ -210,11 +223,6 @@ into the {body} of the default.hbs template -->
 <!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
 
 
-<style>
-  .image-gallery {overflow: auto; margin-left: -1%;}
-  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
-  .image-gallery a img {width: 100%;}
-</style>
 
 
 
