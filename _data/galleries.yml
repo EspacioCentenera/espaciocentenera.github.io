@@ -1,4 +1,4 @@
-- id: gallery1
+- id: trabajos
   description: Galería con trabajos de los estudiantes
   imagefolder: /assets/images/trabajos
   images:
