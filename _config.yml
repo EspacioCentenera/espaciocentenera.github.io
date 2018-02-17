@@ -12,8 +12,8 @@ title: Espacio Centenera
 description: Taller de arte
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/elespacio2.jpg
+logo_dark: assets/images/logo100x100.png
+favicon: assets/images/logo100x100.png
 production_url: https://espaciocentenera.github.io
 source_url: https://github.com/EspacioCentenera/espaciocentenera.github.io
 
