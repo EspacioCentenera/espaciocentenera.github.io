@@ -12,7 +12,7 @@ author: talleristas
 feature: true
 ---
 
-Inciamos un espacio virtual más.
+Iniciamos un espacio virtual más.
 
 Un espacio propio para replicar en las redes y conectarnos.
 Una gota del taller de arte Espacio Centenera.
