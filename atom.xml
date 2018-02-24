@@ -8,16 +8,31 @@
     
       
       <item>
-        <title>Bienvenides</title>
+        <title>Taller de dibujo y pintura</title>
         
-          <description>&lt;p&gt;Bienvenides al taller de arte Espacio Centenera.&lt;/p&gt;
+          <description>&lt;h2 id=&quot;horarios&quot;&gt;Horarios&lt;/h2&gt;
 
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 10:00:00 +0000</pubDate>
+        <pubDate>Sat, 24 Feb 2018 16:00:00 -0300</pubDate>
         <link>
-        https://espaciocentenera.com.ar//autor/welcome</link>
-        <guid isPermaLink="true">https://espaciocentenera.com.ar//autor/welcome</guid>
+        https://espaciocentenera.com.ar//talleres-dibujo-y-pintura</link>
+        <guid isPermaLink="true">https://espaciocentenera.com.ar//talleres-dibujo-y-pintura</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Artistas trabajando</title>
+        
+          <description>&lt;p&gt;Inciamos un espacio virtual más.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 24 Feb 2018 09:00:00 -0300</pubDate>
+        <link>
+        https://espaciocentenera.com.ar//bienvenides</link>
+        <guid isPermaLink="true">https://espaciocentenera.com.ar//bienvenides</guid>
       </item>
       
     

@@ -48,8 +48,8 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>Bienvenides</title>
-	  <link>https://espaciocentenera.com.ar//autor/welcome</link>
+	  <title>Taller de dibujo y pintura</title>
+	  <link>https://espaciocentenera.com.ar//talleres-dibujo-y-pintura</link>
 		
 				
 						<author>Talleristas</author>
@@ -67,10 +67,48 @@
 		
 				
 		
-	  <pubDate>2017-07-27T10:00:00+00:00</pubDate>
-	  <guid>https://espaciocentenera.com.ar//autor/welcome</guid>
+	  <pubDate>2018-02-24T19:00:00+00:00</pubDate>
+	  <guid>https://espaciocentenera.com.ar//talleres-dibujo-y-pintura</guid>
 	  <description><![CDATA[
-	     <p>Bienvenides al taller de arte Espacio Centenera.</p>
+	     <h2 id="horarios">Horarios</h2>
+
+<ul>
+  <li>Martes: 14:30 a 17:30 Hs</li>
+  <li>Miércoles: 14:30 a 17:30 Hs</li>
+  <li>Sábados: 14:00 a 17:00 Hs</li>
+  <li>Domingo: 11:00 a 14:00 Hs</li>
+</ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Artistas trabajando</title>
+	  <link>https://espaciocentenera.com.ar//bienvenides</link>
+		
+				
+						<author>Talleristas</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2018-02-24T12:00:00+00:00</pubDate>
+	  <guid>https://espaciocentenera.com.ar//bienvenides</guid>
+	  <description><![CDATA[
+	     <p>Inciamos un espacio virtual más.</p>
+
+<p>Un espacio propio para replicar en las redes y conectarnos.
+Una gota del taller de arte Espacio Centenera.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rNmmRjO_htE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
