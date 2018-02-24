@@ -89,3 +89,15 @@
     text: Ruben
   - name: sandra.jpeg
     text: Sandra
+- id: escultura
+  description: El Taller
+  imagefolder: /assets/images/escultura
+  images:
+  - name: deto1.jpg
+    thumb:
+    text: Trabajos varios
+  - name: torso.jpg
+    thumb:
+    text: jesica
+  - name: demogorgon1.jpeg
+    text: Eva
