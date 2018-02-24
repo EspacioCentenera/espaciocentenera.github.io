@@ -101,3 +101,17 @@
     text: jesica
   - name: demogorgon1.jpg
     text: Eva
+- id: iniciacion
+  description: El Taller
+  imagefolder: /assets/images/iniciacion
+  images:
+  - name: deto1.jpg
+    text: Trabajos varios
+  - name: gaara.jpg
+    text: gaara
+  - name: lobo1.jpg
+    text: Lobito
+  - name: pintura1.jpg
+    text: pintura1
+  - name: lobo2.jpg
+    text: Lobito
