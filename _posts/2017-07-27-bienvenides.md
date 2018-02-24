@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/profe.jpg
 navigation: True
 title: Artistas trabajando
-date: 2018-02-24T09:00:00-03:00
+date: 2018-02-24T18:00:00-03:00
 tags: [Novedades]
 class: post-template
 subclass: 'post tag-novedades'
