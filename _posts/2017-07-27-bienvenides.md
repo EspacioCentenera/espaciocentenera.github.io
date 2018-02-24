@@ -9,7 +9,7 @@ tags: [Novedades]
 class: post-template
 subclass: 'post tag-novedades'
 author: talleristas
-feature: true
+disqus: true
 ---
 
 Iniciamos un espacio virtual más.
