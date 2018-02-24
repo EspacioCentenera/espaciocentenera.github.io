@@ -33,7 +33,7 @@ disqus_shortname: espaciocentenera # replace with your disqus username
 google_analytics: UA-114713067-1 # replace with your GA tracking identifier
 
 # Permalinks
-permalink: autor/:title
+permalink: /:title
 # permalink: /author/:author
 # permalink: /tag/:tag
 

@@ -77,3 +77,15 @@
   - name: pp.jpg
     thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Another gallery, second image
+- id: pintura
+  description: El Taller
+  imagefolder: /assets/images/pintura
+  images:
+  - name: lala1.jpg
+    thumb:
+    text: María Elia
+  - name: ruben1.jpg
+    thumb:
+    text: Ruben
+  - name: sandra.jpeg
+    text: Sandra

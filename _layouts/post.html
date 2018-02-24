@@ -4,7 +4,27 @@ current: post
 class: post-template
 disqus: false
 ---
-
+<style>
+/*  .image-gallery {overflow: auto; margin-left: -1%;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+  .image-gallery a img {width: 100%;}*/
+  article.gallery {
+        padding: 10px;
+        margin: 10px;
+        text-align: center;
+      }
+  section {
+        display: flex;
+        flex-wrap: wrap;
+        background-color: $darkest-blue-grey;
+      }
+      article {
+       flex: 1 200px;
+     }
+     article:nth-of-type(3) {
+       flex: 2 200px;
+     }
+</style>
 <!-- default -->
 
 <!-- The tag above means: insert everything in this file
@@ -49,6 +69,25 @@ into the {body} of the default.hbs template -->
             <section class="post-full-content">
                 <div class="kg-card-markdown">
                     {{ content }}
+                </div>
+                <div class="image-gallery">
+                  {% for gallery in site.data.galleries %}
+                  {% if gallery.id == page.galleryid %}
+                    <h1>{{ gallery.description }}</h1>
+                    <section>
+                      {% for image in gallery.images %}
+                        <article class="gallery">
+                        <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+                        <!--<img src=//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ gallery.imagefolder }}/{{ image.name }}&w=300&h=300&output=jpg&q=50&t=square>-->
+                        <img src=//images.weserv.nl/?url=espaciocentenera.com.ar{{ gallery.imagefolder }}/{{ image.name }}&w=200&h=200&output=jpg&q=50&t=square>
+                        {{ image.text }}
+                      </a>
+                      <br><a href="{{ site.baseurl }}author/{{ image.authorslug }}">{{ image.author}}</a>
+                      </article>
+                      {% endfor%}
+                    </section>
+                  {% endif %}
+                  {% endfor %}
                 </div>
             </section>
 
