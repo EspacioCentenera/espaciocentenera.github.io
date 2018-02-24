@@ -1,6 +1,6 @@
 ---
 layout: default
-current: home
+current: horarios
 class: 'home-template'
 navigation: True
 ---
@@ -31,10 +31,7 @@ into the {body} of the default.hbs template -->
     <div class="inner">
 
         <div class="post-feed">
-            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-            {%  include post-card.html %}
-        </div>
 
-    </div>
-
-</main>
+<iframe src="https://calendar.google.com/calendar/embed?src=elespaciocentenera%40gmail.com&ctz=America%2FArgentina%2FBuenos_Aires" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+</div>
