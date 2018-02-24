@@ -17,6 +17,7 @@ disqus: false
   section {
         display: flex;
         flex-wrap: wrap;
+        background-color: $darkest-blue-grey;
       }
       article {
        flex: 1 200px;
@@ -53,7 +54,7 @@ into the {body} of the default.hbs template -->
                         <span class="date-divider">/</span>
                         {% for tag in page.tags %}
                             {% if forloop.index == page.tags.size %}
-                               <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
+                               <a  href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
                             {% else %}
                                <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>,
                             {% endif %}
@@ -80,7 +81,7 @@ into the {body} of the default.hbs template -->
                           <article>
                           <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
                           <!--<img src=//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ gallery.imagefolder }}/{{ image.name }}&w=300&h=300&output=jpg&q=50&t=square>-->
-                          <img src=//images.weserv.nl/?url=espaciocentenera.com.ar{{ gallery.imagefolder }}/{{ image.name }}&w=150&h=150&output=jpg&q=50&t=square>
+                          <img src=//images.weserv.nl/?url=espaciocentenera.com.ar{{ gallery.imagefolder }}/{{ image.name }}&w=200&h=200&output=jpg&q=50&t=square>
                           {{ image.text }}
                         </a>
                         <br><a href="{{ site.baseurl }}author/{{ image.authorslug }}">{{ image.author}}</a>
