@@ -7,7 +7,7 @@ title: Taller de iniciación artística
 date: 2018-02-24T17:00:00-03:00
 tags: [talleres, iniciacion]
 class: post-template
-subclass: 'post'
+subclass: 'post tag-talleres'
 author: talleristas
 published: true
 galleryid: iniciacion

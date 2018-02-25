@@ -7,7 +7,7 @@ title: Taller de dibujo y pintura
 date: 2018-02-24T16:00:00-03:00
 tags: [dibujo, pintura, talleres]
 class: post-template
-subclass: 'post'
+subclass: 'post tag-talleres'
 author: talleristas
 published: true
 galleryid: pintura
