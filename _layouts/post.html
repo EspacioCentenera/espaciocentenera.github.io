@@ -13,10 +13,9 @@ disqus: false
         margin: 10px;
         text-align: center;
       }
-  section {
+  section.gallery {
         display: flex;
         flex-wrap: wrap;
-        background-color: $darkest-blue-grey;
       }
       article {
        flex: 1 200px;
@@ -74,7 +73,7 @@ into the {body} of the default.hbs template -->
                   {% for gallery in site.data.galleries %}
                   {% if gallery.id == page.galleryid %}
                     <h1>{{ gallery.description }}</h1>
-                    <section>
+                    <section class= "gallery">
                       {% for image in gallery.images %}
                         <article class="gallery">
                         <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
