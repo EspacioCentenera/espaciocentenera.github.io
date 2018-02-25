@@ -10,7 +10,7 @@ class: post-template
 subclass: 'post'
 author: talleristas
 published: true
-galleryid: Escultura
+galleryid: escultura
 ---
 ## Horarios
 
