@@ -1,0 +1,17 @@
+Fast-forward                                                                                                                                          
+ .gitignore                       |  1 +                                                                                                              
+ 404.html                         |  4 ++--                                                                                                           
+ LICENSE                          |  2 +-                                                                                                             
+ README.md                        | 20 +++++++++++---------                                                                                           
+ _config.yml                      | 29 ++++++++++++++++++-----------                                                                                  
+ _data/authors.yml                |  4 ++--                                                                                                           
+ _layouts/atom.xml                | 41 -----------------------------------------                                                                      
+ _layouts/author.html             |  2 +-                                                                                                             
+ _layouts/author.xml              | 20 --------------------                                                                                           
+ _layouts/default.html            | 14 +++++++++-----                                                                                                 
+ _layouts/tag.xml                 | 20 --------------------                                                                                           
+ _plugins/jekyll-autgenerator.rb  | 22 ----------------------                                                                                         
+ _plugins/jekyll-tagsgenerator.rb | 22 ----------------------                                                                                         
+ assets/built/global.css.map      |  0                                                                                                                
+ assets/built/screen.css.map      |  0                                                                                                                
+ package.json                     |  2 +-            
