@@ -12,7 +12,7 @@ author: talleristas
 published: true
 ---
 
-![seminario retrato marzo](assets/images/seminarios/RetratoMarzo.jpeg)
+![seminario dibujo marzo](assets/images/seminarios/RetratoMarzo.jpeg)
 
 
 ### Información e inscripciones
