@@ -16,5 +16,9 @@ getting-started:
   cover: False
 talleres:
   name: talleres
-  descripcion: El espacio propone una mirada sensible e intelectual sobre la cotidianeidad de las formas. Las artes plástitallerescas no se limitan a la búsqueda de un resultado, por el contrario, el resultado es una consecuencia de una búsqueda profunda, introspectiva y retrospectiva. Ejercitar la observación es conectar exterior con interior, es romper con lo cotidiano, y materializarlo es empezar a encontrar respuestas.
+  description: Las artes plásticas no se limitan a la búsqueda de un resultado, por el contrario, el resultado es una consecuencia de una búsqueda profunda, introspectiva y retrospectiva.
   cover: assets/images/taller2.jpg
+seminarios:
+  name: seminarios
+  description:  Ejercitar la observación es conectar exterior con interior, es romper con lo cotidiano, y materializarlo es empezar a encontrar respuestas.
+  cover: assets/images/seminarios/PortadaSeminario.jpg
