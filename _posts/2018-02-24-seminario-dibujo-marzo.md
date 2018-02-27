@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/producciones3.jpg
+cover: assets/images/seminarios/dibujo.jpeg
 navigation: True
 title: Seminario intensivo de dibujo marzo 2018
 date: 2018-02-24T17:00:00-03:00
