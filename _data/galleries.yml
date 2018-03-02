@@ -115,3 +115,15 @@
     text: Pinturas
   - name: lobo2.jpg
     text: Lobito
+- id: identidad
+  description: Identidad
+  imagefolder: /assets/images/identidad
+  images:
+  - name: idibu.jpg
+    text: Dibujo
+  - name: iescu.jpg
+    text: Escultura
+  - name: ipintu.jpg
+    text: Pintura
+  - name: itin.jpg
+    text: Jovenes
