@@ -5,7 +5,7 @@ cover: assets/images/identidad/itin.jpg
 navigation: True
 title: Identidad
 date: 2018-03-01T12:00:00-03:00
-tags: [dibujo, pintura, talleres, escultura, T.I.N]
+tags: [talleres, pintura, dibujo, escultura, T.I.N]
 class: post-template
 subclass: 'post tag-talleres'
 author: talleristas
