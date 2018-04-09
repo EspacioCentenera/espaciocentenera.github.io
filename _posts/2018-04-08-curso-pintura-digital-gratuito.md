@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/seminarios/seminarioPinturaDigital.jpg
 navigation: True
-title: Curso gratuito de pintura digital online [MyPaint]
+title: Curso gratuito de pintura digital online
 date: 2018-04-08T17:00:00-03:00
 tags: [cursos, seminarios, pintura]
 class: post-template
