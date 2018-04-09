@@ -3,8 +3,8 @@ layout: post
 current: post
 cover: assets/images/seminarios/seminarioPinturaDigital.jpg
 navigation: True
-title: Curso gratuito de pintura digital online
-date: 2018-04-08T17:00:00-03:00
+title: Curso pintura digital online gratuito
+date: 2018-04-08
 tags: [cursos, seminarios, pintura]
 class: post-template
 subclass: 'post tag-seminarios'
@@ -25,7 +25,7 @@ Los cupos son LIMITADOS, solo se aceptarán particiapntes que se inscriban a tra
 Temas:
 - Primer encuentro:
   - Introducción al uso de la plataforma
-  - Introducción a los proceso de Pintura y Coloreado digital, basados en las herramientas libres y multiplataforma: [MyPaint.](https://mypaint.org)
+  - Introducción a los proceso de Pintura y Coloreado digital, basados en las herramientas libres y multiplataforma: [MyPaint](https://mypaint.org).
   - Herramientas mínimas necesarias para dibujo y pintado digital
   - Configuraciones y recomendaciones generales.
   - MyPaint (como es, como lo usamos)
