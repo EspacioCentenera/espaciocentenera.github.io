@@ -4,7 +4,7 @@ current: post
 cover: assets/images/escultura/deto1.jpg
 navigation: True
 title: Seminario intensivo de Escultura
-date: 2018-03-19
+date: 2018-04-19
 tags: [seminarios, escultura]
 class: post-template
 subclass: 'post tag-seminarios'
