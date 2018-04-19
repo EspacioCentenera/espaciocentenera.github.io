@@ -27,5 +27,3 @@ Los cupos son LIMITADOS, solo se aceptarán particiapntes que se inscriban a tra
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeegcqJrwU6Ye3su1w-cDZhm8FbGVS9f-r1rWZESxvOiEXWGw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
-
-![seminario dibujo marzo](assets/images/escultura/deto1.jpg)
