@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/escultura/deto1.jpg
 navigation: True
-title: Seminario intensivo de Escultura
+title: Seminario intensivo de Escultura 6 de Mayo
 date: 2018-04-19
 tags: [seminarios, escultura]
 class: post-template
