@@ -128,7 +128,7 @@
   - name: itin.jpg
     text: Jovenes
 - id: digital
-  description: Taller de dibujo y pintura digital
+  description: Galería
   imagefolder: /assets/images/digital
   images:
   - name: batman.jpg
