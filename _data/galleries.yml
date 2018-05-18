@@ -127,3 +127,15 @@
     text: Pintura
   - name: itin.jpg
     text: Jovenes
+- id: digital
+  description: Taller de dibujo y pintura digital
+  imagefolder: /assets/images/digital
+  images:
+  - name: procesoBatman.jpg
+    text: Proceso de Batman
+  - name: bowiee.png
+    text: Bowie
+  - name: hongoconogrorecorte.png
+    text: Hongo con Ogro
+  - name: it.jpg
+    text: IT
