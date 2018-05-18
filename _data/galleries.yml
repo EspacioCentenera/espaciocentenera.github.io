@@ -131,8 +131,10 @@
   description: Taller de dibujo y pintura digital
   imagefolder: /assets/images/digital
   images:
+  - name: batman.jpg
+    text: Batman
   - name: procesoBatman.jpg
-    text: Proceso de Batman
+    text: Proceso del Batman
   - name: bowiee.png
     text: Bowie
   - name: hongoconogrorecorte.png
