@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/digital/tallerpinturadigital.jpg
 navigation: True
-title: Taller de pintura y dibujo digital presencial
+title: Taller de pintura y dibujo digital
 date: 2018-05-18
 tags: [dibujo, pintura, talleres]
 class: post-template
