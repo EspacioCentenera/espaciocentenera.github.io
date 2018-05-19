@@ -82,62 +82,79 @@
   imagefolder: /assets/images/pintura
   images:
   - name: lala1.jpg
-    thumb:
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: María Elia
   - name: ruben1.jpg
-    thumb:
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Ruben
   - name: sandra.jpeg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Sandra
 - id: escultura
   description: El Taller
   imagefolder: /assets/images/escultura
   images:
   - name: deto1.jpg
-    thumb:
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Trabajos varios
   - name: torso1.jpg
-    thumb:
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Jesica
   - name: demogorgon1.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Eva
 - id: iniciacion
   description: El Taller
   imagefolder: /assets/images/iniciacion
   images:
   - name: deto1.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Trabajos varios
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
   - name: gaara.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Gaara
   - name: lobo1.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Lobito
   - name: pintura1.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Pinturas
   - name: lobo2.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Lobito
 - id: identidad
   description: Identidad
   imagefolder: /assets/images/identidad
   images:
   - name: idibu.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Dibujo
   - name: iescu.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Escultura
   - name: ipintu.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Pintura
   - name: itin.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Jovenes
 - id: digital
   description: Galería
   imagefolder: /assets/images/digital
   images:
   - name: batman.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Batman
   - name: procesoBatman.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Proceso del Batman
   - name: bowiee.png
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: Bowie
   - name: hongoconogrorecorte.png
-    text: Gnome
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
+    text: Gnomo
   - name: it.jpg
+    thumb: "//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square"
     text: IT
