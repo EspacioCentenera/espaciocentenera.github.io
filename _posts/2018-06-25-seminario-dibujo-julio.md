@@ -20,4 +20,4 @@ Tercer seminario, esta vez con modelo vivo. 1er domingo de julio, de 14 a 17hs (
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfk78oV4bFqcY_SvmRPwiV-u6U7eoP_IqSSLGz7s2ykzvceMw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
 
-![seminario dibujo Julio](assets/images/seminarios/RetratoMarzo.jpeg)
+![seminario dibujo Julio](assets/images/seminarios/dibujoVivo.jpeg)
