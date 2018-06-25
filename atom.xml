@@ -8,6 +8,34 @@
     
       
       <item>
+        <title>Seminario Dibujo Julio</title>
+        
+          <description>
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+current: post
+cover: assets/images/seminarios/dibujoVivo.jpg
+navigation: True
+title: Seminario intensivo de dibujo Julio 2018
+date: 2018-06-25T17:00:00-03:00
+tags: seminarios
+class: post-template
+subclass: ‘post tag-seminarios’
+author: talleristas
+published: true
+—&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+        <link>
+        https://espaciocentenera.com.ar//seminario-dibujo-julio</link>
+        <guid isPermaLink="true">https://espaciocentenera.com.ar//seminario-dibujo-julio</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Taller de pintura y dibujo digital</title>
         
           <description>&lt;h2 id=&quot;horarios&quot;&gt;Horarios&lt;/h2&gt;
