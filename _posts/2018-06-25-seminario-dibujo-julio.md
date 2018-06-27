@@ -12,7 +12,7 @@ author: talleristas
 published: true
 ---
 
-Tercer seminario, esta vez con modelo vivo. 1er domingo de julio, de 14 a 17hs (3 horas) $500.
+Tercer seminario, esta vez con modelo vivo. 1er domingo de julio, de 14 a 18hs (4 horas) $500.
 
 
 ### Información e inscripciones
